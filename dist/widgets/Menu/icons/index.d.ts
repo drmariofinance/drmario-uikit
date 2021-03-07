@@ -20,3 +20,7 @@ export { default as AuditIcon } from "./Audit";
 export { default as GooseIcon } from "./Goose";
 export { default as LayerIcon } from "./Layer";
 export { default as RoadmapIcon } from "./Roadmap";
+export { default as MedicalBottleIcon } from "./MedicalBottle";
+export { default as MedicalBottleAIcon } from "./MedicalBottleA";
+export { default as TubeIcon } from "./Tube";
+export { default as TubeAIcon } from "./TubeA";
